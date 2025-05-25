@@ -359,11 +359,11 @@ const Portfolio = () => {
               <div className="space-y-4">
                 <div className="flex items-center gap-4">
                   <Mail className="w-6 h-6 text-purple-400" />
-                  <span className="text-gray-300">your.email@example.com</span>
+                  <span className="text-gray-300">ryanallandsouza@gmail.com</span>
                 </div>
                 <div className="flex items-center gap-4">
                   <Phone className="w-6 h-6 text-purple-400" />
-                  <span className="text-gray-300">+1 (555) 123-4567</span>
+                  <span className="text-gray-300">773-816-6611</span>
                 </div>
                 <div className="flex items-center gap-4">
                   <MapPin className="w-6 h-6 text-purple-400" />
